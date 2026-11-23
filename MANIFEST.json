@@ -1,0 +1,95 @@
+{
+  "schema": "seed.site/1",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": ".well-known/agent-skills/index.json",
+      "sha256": "66a588ce941292b95b6f60c04a775d30f082f2982b90759f7296e9648c001e24",
+      "bytes": 324
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "8e690e3fd299d8f2318460dcde07e0aecd06c9464eab57f3ae9fb3a73f602d28",
+      "bytes": 362
+    },
+    {
+      "path": "docs/CLIENT-SOFTWARE-FREE-2026-11-23.md",
+      "sha256": "4806ae3675ac3f0f98536cfed06f076a75401e9404516090c6d9071463dd2b0f",
+      "bytes": 4203
+    },
+    {
+      "path": "docs/CLOUDFLARE-FREE-SERVICES-2026-11-22.md",
+      "sha256": "2f9b2aef079a7903b149c29b3f154d0fbe9c8b9d3f740c38c76e526d7a7602a9",
+      "bytes": 7705
+    },
+    {
+      "path": "docs/GLOBAL-CONCEPT-SEED-2026-11-23.md",
+      "sha256": "a480a8c9942dae0c24aef8f912780af70ce8627ac43e4e4a2c2cdcd19cc43ae4",
+      "bytes": 6359
+    },
+    {
+      "path": "docs/KB-1C.md",
+      "sha256": "32a407731ea6ec89043e6e35dd78d3d2fdc09ac00126168e4544a0f494ad70c0",
+      "bytes": 26388
+    },
+    {
+      "path": "docs/MEMORY-CONSOLIDATION-2026-11-22.md",
+      "sha256": "821be42eea16786f315184a178b32a1b12d9d655619da9fd4e03cd62c5bddfd5",
+      "bytes": 6857
+    },
+    {
+      "path": "docs/MESH-INTEGRATION-RESEARCH-2026-11-22.md",
+      "sha256": "9a8b91b9f2da56278b4eb9e40774a01269b7d23a851f68809a8370feb9301597",
+      "bytes": 6385
+    },
+    {
+      "path": "docs/ON-DEMAND-SKILLS-2026-11-23.md",
+      "sha256": "b0992fd37a4da77006d3e4c7621209bb4d1e32c45526b86ff0a3e14ce730e357",
+      "bytes": 15427
+    },
+    {
+      "path": "docs/PROD-PATCH-CHECKLIST.md",
+      "sha256": "5ff925bc880dbaed629a0081b78eb24af3f9477f2dc97b19217e00e2123e1982",
+      "bytes": 4001
+    },
+    {
+      "path": "docs/RESEARCH-ARCHIVE-INDEX-2026-11-23.md",
+      "sha256": "0e3198c719558bd3f39a9a20c3e8bef21704747e731dc0ae9330494714670a4a",
+      "bytes": 5356
+    },
+    {
+      "path": "docs/SELF-DEVELOPMENT-CONCEPT-2026-11-22.md",
+      "sha256": "0dc8253e35ec537f3f4f1c32b26faa7909b1b6d4ebdcdb7cbb117a46835c81f1",
+      "bytes": 10713
+    },
+    {
+      "path": "docs/TECHNICAL-SPEC-COMMON-SOURCE.md",
+      "sha256": "0b5f8782c9eab8c794fe79c261ca17c4734f98870445e186fca2c13736cfbe38",
+      "bytes": 35062
+    },
+    {
+      "path": "index.html",
+      "sha256": "5c290f38945cb57ebaa22d5ccf3f51095c435310bd8db2f509bd8aa1db80e0d2",
+      "bytes": 444
+    },
+    {
+      "path": "llms-full.txt",
+      "sha256": "a73554dabe0483900d46f2f3c6b6ec62874de48b2033211b0cfaa47c6ee89cbe",
+      "bytes": 128943
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "d7e12afea02e02cce78c287429eca515a2ec22ae9c98afb055d2ed706bc5f1d6",
+      "bytes": 1719
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "253a2f7d76865bbadae3cdf1fe99822d7372c1357dc248218abecfe2bd2694d9",
+      "bytes": 547
+    }
+  ]
+}
