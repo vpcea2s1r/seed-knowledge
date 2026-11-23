@@ -25,7 +25,9 @@
 | Клиенты | ноут с OpenCode, 3 iPhone, рабочий комп; MCP Streamable HTTP | подключение по требованию |
 | Устойчивость | Hasleo 6.0.2.0, бэкап-сервер 10 ТБ, NAS, `dr-pack` | Restore машины и мозга |
 
-Живой endpoint: `https://seed-edge.2497567.workers.dev`
+Живой endpoint (управление/API): `https://shambhala.2497567.workers.dev`
+Публичный сайт-инструкция (люди + модели): `https://vpcea2s1r.github.io/shambhala/`
+Репозиторий сайта: `https://github.com/vpcea2s1r/shambhala` (GitHub Pages, бесплатно; сборка из `tools/build-public-site.py` с санитайзером)
 
 ## 4. Принципы
 
@@ -209,7 +211,7 @@ seed skill-load web-copy                      # полный текст в ко�
 
 # Бесплатные клиенты для подключения к SEED (23.11.2026)
 
-Endpoint: `https://seed-edge.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bearer-token устройства).
+Endpoint: `https://shambhala.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bearer-token устройства).
 
 ## iPhone (бесплатные варианты)
 
@@ -225,7 +227,7 @@ Endpoint: `https://seed-edge.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bear
 
 **Настройка на iPhone (одинаково для Lantern/MCP Agent):**
 1. Установить приложение из App Store.
-2. Add server → URL `https://seed-edge.2497567.workers.dev/mcp`, transport **Streamable HTTP**.
+2. Add server → URL `https://shambhala.2497567.workers.dev/mcp`, transport **Streamable HTTP**.
 3. Auth → Bearer token; взять токен из Windows Credential Manager `seed-device-iphone-1/2/3` (передать владельцу безопасным каналом, не в чат).
 4. Connect → проверить список инструментов (`source_search`, `source_get`, `skill_discover`, `source_help`).
 5. Спросить задачу текстом: «найди правила копирования сайта» — сработает `/discover` через `skill_discover`.
@@ -241,7 +243,7 @@ OpenCode V2 — нативный MCP-клиент, самый короткий �
     "servers": {
       "seed-edge": {
         "type": "remote",
-        "url": "https://seed-edge.2497567.workers.dev/mcp",
+        "url": "https://shambhala.2497567.workers.dev/mcp",
         "oauth": false,
         "protocol": "auto",
         "headers": {
@@ -469,7 +471,7 @@ OpenCode V2 — нативный MCP-клиент, самый короткий �
 
 # Архив исследований и концепций — индекс (23.11.2026)
 
-Назначение: не искать дважды. Все найденные факты, решения и концепции собраны здесь и продублированы в переносимый источник SEED (`prototypes/seed/source/concepts.json`, D1/KV хаба `https://seed-edge.2497567.workers.dev`).
+Назначение: не искать дважды. Все найденные факты, решения и концепции собраны здесь и продублированы в переносимый источник SEED (`prototypes/seed/source/concepts.json`, D1/KV хаба `https://shambhala.2497567.workers.dev`).
 
 ## 1. 1С: обновление, патчи, диагностика
 

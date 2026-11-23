@@ -1,6 +1,6 @@
 # Бесплатные клиенты для подключения к SEED (23.11.2026)
 
-Endpoint: `https://seed-edge.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bearer-token устройства).
+Endpoint: `https://shambhala.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bearer-token устройства).
 
 ## iPhone (бесплатные варианты)
 
@@ -16,7 +16,7 @@ Endpoint: `https://seed-edge.2497567.workers.dev/mcp` (MCP Streamable HTTP, Bear
 
 **Настройка на iPhone (одинаково для Lantern/MCP Agent):**
 1. Установить приложение из App Store.
-2. Add server → URL `https://seed-edge.2497567.workers.dev/mcp`, transport **Streamable HTTP**.
+2. Add server → URL `https://shambhala.2497567.workers.dev/mcp`, transport **Streamable HTTP**.
 3. Auth → Bearer token; взять токен из Windows Credential Manager `seed-device-iphone-1/2/3` (передать владельцу безопасным каналом, не в чат).
 4. Connect → проверить список инструментов (`source_search`, `source_get`, `skill_discover`, `source_help`).
 5. Спросить задачу текстом: «найди правила копирования сайта» — сработает `/discover` через `skill_discover`.
@@ -32,7 +32,7 @@ OpenCode V2 — нативный MCP-клиент, самый короткий �
     "servers": {
       "seed-edge": {
         "type": "remote",
-        "url": "https://seed-edge.2497567.workers.dev/mcp",
+        "url": "https://shambhala.2497567.workers.dev/mcp",
         "oauth": false,
         "protocol": "auto",
         "headers": {

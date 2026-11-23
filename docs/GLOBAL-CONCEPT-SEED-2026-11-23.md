@@ -23,7 +23,9 @@
 | Клиенты | ноут с OpenCode, 3 iPhone, рабочий комп; MCP Streamable HTTP | подключение по требованию |
 | Устойчивость | Hasleo 6.0.2.0, бэкап-сервер 10 ТБ, NAS, `dr-pack` | Restore машины и мозга |
 
-Живой endpoint: `https://seed-edge.2497567.workers.dev`
+Живой endpoint (управление/API): `https://shambhala.2497567.workers.dev`
+Публичный сайт-инструкция (люди + модели): `https://vpcea2s1r.github.io/shambhala/`
+Репозиторий сайта: `https://github.com/vpcea2s1r/shambhala` (GitHub Pages, бесплатно; сборка из `tools/build-public-site.py` с санитайзером)
 
 ## 4. Принципы
 

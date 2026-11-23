@@ -1,4 +1,4 @@
-# AGENTS.md — SEED public docs site
+# AGENTS.md — Shambhala public docs site
 
 - This repository contains documentation only. Do not put secrets here.
 - The live control plane is the Cloudflare Worker MCP endpoint listed in llms.txt.

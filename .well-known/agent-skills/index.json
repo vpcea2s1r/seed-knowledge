@@ -3,9 +3,9 @@
     {
       "name": "seed-connect",
       "type": "skill-md",
-      "description": "Connect an agent to the SEED knowledge hub",
-      "url": "https://vpcea2s1r.github.io/seed-knowledge/SKILL.md",
-      "sha256": "sha256:253a2f7d76865bbadae3cdf1fe99822d7372c1357dc248218abecfe2bd2694d9"
+      "description": "Connect an agent to the Shambhala knowledge hub",
+      "url": "https://vpcea2s1r.github.io/shambhala/SKILL.md",
+      "sha256": "sha256:211cc5158c641545b5a3edbd1b2502a878c043098c2a33f567683acb0f4b6797"
     }
   ]
 }
